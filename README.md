@@ -1,6 +1,7 @@
 # my-python-journey
 Record my process of learning Python
 我的第一个Python项目|学习编程的起点| 
+
 1.项目介绍：
 这是一个基于Python的命令行猜数字游戏，是我学习编程的入门项目。通过这个项目，我掌握了Python基础语法、条件判断、循环控制和用户交互等核心概念。
 
